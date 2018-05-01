@@ -1,0 +1,7 @@
+<svg id="icon-rbahn" viewBox="0 0 20 20" width="100%" height="100%">
+            <title>R-Bahn</title>
+               <rect style="fill:#8F908F;" width="20" height="20"></rect>
+                <g>
+                    <path style="fill:#ffffff;" d="M4,17V3h7c2,0,4,1,4,4s-2,4-3,4l4,6h-3l-4-6H7v6H4z M7,9h3c1,0,2-1,2-2s-1-2-2-2H7V9z"></path>
+                </g>
+        </svg>

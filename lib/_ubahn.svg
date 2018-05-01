@@ -1,0 +1,7 @@
+<svg id="icon-ubahn" viewBox="0 0 20 20" width="100%" height="100%">
+            <title>Stadt/Zahnradbahn</title>
+           <g>
+                <path style="fill:#0ba1e2;" d="M0,0v20h20V0H0z M16,11c0,8-12,8-12,0V3h3v8c0,4,6,4,6,0V3h3V11z"></path>
+                <path style="fill:#ffffff;" d="M13,11c0,4-6,4-6,0V3H4v8c0,8,12,8,12,0V3h-3V11z"></path>
+            </g>
+        </svg>
