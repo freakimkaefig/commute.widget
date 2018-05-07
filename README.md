@@ -4,6 +4,7 @@ Displays the next connection for a defined journey inside the public transportat
 
 ![Screenshot](lib/screenshot.png)
 
+To get details of a specific journey you can click (with "Interaction Shortcut" in Übersicht Preferences; e.g. CMD+Click) on the corresponding line.
 
 ## Configuration
 
@@ -21,4 +22,3 @@ The fields `name_origin` and `name_destination` need to be copied to the regardi
 Further, if you're behind a proxy, you can configure the proxy also in `lib/efa.js`. See `options.host` and `options.port`.
 
 **NOTE:** The widget will first try to reach the API through the proxy. If the connection fails, the widget will try the query again without proxy.
-
